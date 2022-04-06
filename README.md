@@ -13,3 +13,7 @@ You will create more and more files when the need comes.
 - `workflows/`: [Understanding GitHub actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
 - `CODEOWNERS`: [About code owners](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
 - Configurations of repository-specific bots, e.g.: `dependabot.yml` for Dependabot, `stale.yml` for Probot, etc.
+
+## Issues & PR templates
+
+[About templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
