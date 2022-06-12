@@ -2,7 +2,7 @@ name: ✨Feature Request
 description: Request a new feature or enhancement
 title: "[FEAT]: "
 labels: ["enhancement"]
-assignees: ["Smithienious"]
+assignees: ["hoang-himself"]
 body:
   - type: markdown
     attributes:
